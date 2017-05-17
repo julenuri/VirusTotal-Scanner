@@ -1,6 +1,8 @@
 # VirusTotal-Scanner
 Script to scan executable files using VirusTotal API, available from the windows context menu.
 
+![Screenshoot](http://i.imgur.com/J2uklEA.png)
+
 # How to install?
 
 - Create account on [VirusTotal,com](https://virustotal.com/)
