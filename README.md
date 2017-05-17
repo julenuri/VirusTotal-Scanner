@@ -17,4 +17,4 @@ Script to scan executable files using VirusTotal API, available from the windows
 Right click on any exe file (max 128 MB), click on  "VirusTotalScanner" and wait for report :-)
 
 # Limits
-[VirusTotal,com API Documentation](https://www.virustotal.com/pl/documentation/public-api/)
+[VirusTotal.com API Documentation](https://www.virustotal.com/pl/documentation/public-api/)
